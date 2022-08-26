@@ -1,0 +1,6 @@
+DOM Selection Method 
+-getElementById() -> element
+-getElementsByTagName() -> HTMLCollection 
+-getElementsByClassName() -> HTMLCollection
+-querySelector() -> element
+-querySelectorAll() -> nodeList
