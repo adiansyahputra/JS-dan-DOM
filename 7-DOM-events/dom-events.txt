@@ -1,0 +1,8 @@
+DOM Events 
+"Event pada javascript merepresentasikan sebuah kejadian yang terjadi di dalam DOM... 
+... kejadian tersebut bisa dilakukan oleh user(mouse event, keyboard event, dll), 
+ataupun dilakukan secara otomatis oleh API(animasi selesai dijalankan, halaman selesai diload, dll)
+
+Cara 'mendengarkan' event 
+-Event Handler: Inline HTML attribute, Element method 
+-addEventListener()
