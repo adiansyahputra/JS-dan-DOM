@@ -17,3 +17,20 @@ Daftar Event
 -css animation & transition event 
 -drag & drop event 
 -dll
+
+Mouse Event 
+-click
+-dblclick 
+-mouseover 
+-mouseenter 
+-mouseup 
+-wheel 
+
+Keyboard Event 
+-keydown
+-keypress 
+-keyup 
+
+Form Event 
+-reset 
+-submit 
