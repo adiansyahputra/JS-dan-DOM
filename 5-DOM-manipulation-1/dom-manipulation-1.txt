@@ -1,0 +1,9 @@
+DOM Manipulation Method 
+-Manipulasi Element 
+-Manipulasi Node 
+
+Manipulasi Element 
+-element.innerHTML 
+-element.style.<property> 
+-element.setAttribute()
+-element.classList
