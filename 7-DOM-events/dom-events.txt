@@ -6,3 +6,14 @@ ataupun dilakukan secara otomatis oleh API(animasi selesai dijalankan, halaman s
 Cara 'mendengarkan' event 
 -Event Handler: Inline HTML attribute, Element method 
 -addEventListener()
+
+Daftar Event 
+-Mouse Event 
+-keyboard Event
+-Resource event 
+-Focus event 
+-view event 
+-form event 
+-css animation & transition event 
+-drag & drop event 
+-dll
