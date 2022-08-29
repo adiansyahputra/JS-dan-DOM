@@ -1,0 +1,10 @@
+DOM Traversal 
+-penelusuran DOM 
+
+DOM Traversal Method 
+-parentNode hasil-> node
+-parentElement -> element
+-nextSibling -> node
+-nextElementSibling -> element 
+-previousSibling -> node 
+-previousElementSibling -> element
